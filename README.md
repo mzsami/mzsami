@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning **javascript and enchancing my skills on web development related languages.**
 
 - 💬 Ask me about **HTML, CSS, and Git.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

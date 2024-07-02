@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sami</h1>
-<h3 align="center">An aspiring software engineer currently studying in high school.</h3>
+<h3 align="center">An aspiring software engineer studying in high school.</h3>
 
 - 🔭 I’m currently working on [Colmar-academy](https://github.com/mzsami/Colmar-Academy)
 

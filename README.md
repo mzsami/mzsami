@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring software engineer currently studying in high school.</h3>
 
 # 💫 About Me:
-🔭 <br>🌱 Currently enhancing my skills inside programming languages like JS and Python, and strengthening my skills on front-end web development languages and API's.<br><br>🫡 Code fluency inside Python, JS, Java, HTML, and CSS.<br><br>
+<br>🌱 Currently enhancing my skills inside programming languages like JS and Python, and strengthening my skills on front-end web development languages and API's.<br><br>🫡 Code fluency inside Python, JS, Java, HTML, and CSS.<br><br>
 
 
 ## 🌐 Socials:
